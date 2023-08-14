@@ -3,7 +3,6 @@
 ## Table of contents
 
 - [Screenshot](#screenshot)
-- [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -11,10 +10,6 @@
 ### Screenshot
 
 ![](./screenshot.png)
-
-### Links
-
-- Solution URL: [Live site](https://fm-e-commerce-product-page.vercel.app/)
 
 ## My process
 
