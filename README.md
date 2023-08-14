@@ -10,7 +10,7 @@
 
 ### Screenshot
 
-![](./e-com-product-page.png)
+![](./screenshot.png)
 
 ### Links
 
